@@ -1,9 +1,15 @@
+image:
+  file: .gitpod.Dockerfile
+
 tasks:
-  - init: |
-      wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
-      sudo dpkg -i packages-microsoft-prod.deb
-      sudo apt-get update
-      sudo apt-get install -y apt-transport-https apt-utils
-      sudo apt-get update
-      sudo apt-get install -y dotnet-sdk-6.0 dotnet-runtime-6.0
-      echo "export PATH=$PATH:/usr/share/dotnet" >> ~/.bashrc
+  - name: Restore & Build
+    init: |
+      dotnet dev-certs https 
+      dotnet restore
+      dotnet build
+  - name: Run
+    command: dotnet run
+
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
