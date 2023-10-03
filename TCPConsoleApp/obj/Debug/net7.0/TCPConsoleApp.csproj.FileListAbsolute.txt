@@ -1,0 +1,15 @@
+/workspace/WebSocket-on-.NET/TCPConsoleApp/bin/Debug/net7.0/TCPConsoleApp
+/workspace/WebSocket-on-.NET/TCPConsoleApp/bin/Debug/net7.0/TCPConsoleApp.deps.json
+/workspace/WebSocket-on-.NET/TCPConsoleApp/bin/Debug/net7.0/TCPConsoleApp.runtimeconfig.json
+/workspace/WebSocket-on-.NET/TCPConsoleApp/bin/Debug/net7.0/TCPConsoleApp.dll
+/workspace/WebSocket-on-.NET/TCPConsoleApp/bin/Debug/net7.0/TCPConsoleApp.pdb
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.csproj.AssemblyReference.cache
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.AssemblyInfoInputs.cache
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.AssemblyInfo.cs
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.csproj.CoreCompileInputs.cache
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.dll
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/refint/TCPConsoleApp.dll
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.pdb
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/TCPConsoleApp.genruntimeconfig.cache
+/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/Debug/net7.0/ref/TCPConsoleApp.dll
