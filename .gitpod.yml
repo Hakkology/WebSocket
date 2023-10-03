@@ -9,7 +9,3 @@ tasks:
       dotnet build
   - name: Run
     command: dotnet run
-
-vscode:
-  extensions:
-    - muhammad-sammy.csharp
