@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wIRZ9/+snqrvWPF6bNuAYuTpIhkwKcukbLVLC2dOn+XFXxc3RieU3BMeJUoA1Q/RgfU10C3Ci8LTsHiQ4MPdA==",
+  "dgSpecHash": "r/jcgzNWOKVUj4Zh4tAGt+fSDNSdq1v7AnvHI2Gi5MB8IYUdgR/RK4uo9W1iNVBL0RKubpqLQfFqVgMfbzjTnQ==",
   "success": true,
-  "projectFilePath": "/workspace/WebSocket-on-.NET/TCPConsoleApp/TCPConsoleApp.csproj",
+  "projectFilePath": "/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPConsoleApp/TCPConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
