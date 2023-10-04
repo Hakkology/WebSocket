@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/gitpod/.nuget/packages/": {}
+    "/home/hakan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/WebSocket-on-.NET/TCPConsoleApp/TCPConsoleApp.csproj",
+      "projectUniqueName": "/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPConsoleApp/TCPConsoleApp.csproj",
       "projectName": "TCPConsoleApp",
-      "projectPath": "/workspace/WebSocket-on-.NET/TCPConsoleApp/TCPConsoleApp.csproj",
-      "packagesPath": "/home/gitpod/.nuget/packages/",
-      "outputPath": "/workspace/WebSocket-on-.NET/TCPConsoleApp/obj/",
+      "projectPath": "/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPConsoleApp/TCPConsoleApp.csproj",
+      "packagesPath": "/home/hakan/.nuget/packages/",
+      "outputPath": "/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/gitpod/.nuget/NuGet/NuGet.Config"
+        "/home/hakan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/gitpod/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }
