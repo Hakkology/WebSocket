@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPConsoleApp", "TCPConsole
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientApp", "TCPClientApp\TCPClientApp.csproj", "{A6FBF7FD-764C-4618-BD62-EDBD4BA24675}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientApp", "UDPClientApp\UDPClientApp.csproj", "{A4CD4FFA-0747-4A93-A2E3-2B59BE570892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPConsoleApp", "UDPConsoleApp\UDPConsoleApp.csproj", "{90D8AFF6-0AD1-422A-B0BF-0A90BA0971DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{A6FBF7FD-764C-4618-BD62-EDBD4BA24675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6FBF7FD-764C-4618-BD62-EDBD4BA24675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6FBF7FD-764C-4618-BD62-EDBD4BA24675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CD4FFA-0747-4A93-A2E3-2B59BE570892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CD4FFA-0747-4A93-A2E3-2B59BE570892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CD4FFA-0747-4A93-A2E3-2B59BE570892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CD4FFA-0747-4A93-A2E3-2B59BE570892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D8AFF6-0AD1-422A-B0BF-0A90BA0971DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D8AFF6-0AD1-422A-B0BF-0A90BA0971DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D8AFF6-0AD1-422A-B0BF-0A90BA0971DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D8AFF6-0AD1-422A-B0BF-0A90BA0971DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
