@@ -1,0 +1,15 @@
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/bin/Debug/net7.0/TCPClientApp
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/bin/Debug/net7.0/TCPClientApp.deps.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/bin/Debug/net7.0/TCPClientApp.runtimeconfig.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/bin/Debug/net7.0/TCPClientApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/bin/Debug/net7.0/TCPClientApp.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.csproj.AssemblyReference.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.AssemblyInfoInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.AssemblyInfo.cs
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.csproj.CoreCompileInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/refint/TCPClientApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/TCPClientApp.genruntimeconfig.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/TCPClientApp/obj/Debug/net7.0/ref/TCPClientApp.dll
