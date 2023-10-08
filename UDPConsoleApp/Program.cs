@@ -1,10 +1,9 @@
-﻿using System;
-using System.IO;
+﻿using Newtonsoft.Json;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace TCPConsole{
+namespace UDPConsole{
 
     class Program{
 
@@ -21,15 +20,26 @@ namespace TCPConsole{
                 Console.WriteLine("waiting...");
                 byte[] receivedbytes = listener.Receive(ref EP);
                 Console.WriteLine("received a message");
-                string data = System.Text.Encoding.ASCII.GetString(receivedbytes, 0, receivedbytes.length);
+
+                // conversion from byte array to a list of strings
+                // Json for serialization of list of strings
+                string receivedJson = Encoding.ASCII.GetString(receivedbytes);
+                List<string>? deserializedList = JsonConvert.DeserializeObject<List<string>>(receivedJson);
+
+                string data = "";
+                if (deserializedList.ElementAt(0) != null)
+                {
+                    data = deserializedList.ElementAt(0);
+                } 
                 Console.WriteLine("data received: " + data);
+
             }
             catch (Exception e)
             {
                 
                 Console.WriteLine(e.ToString());
             }
-            listener.close();
+            listener.Close();
         }
     }
 }

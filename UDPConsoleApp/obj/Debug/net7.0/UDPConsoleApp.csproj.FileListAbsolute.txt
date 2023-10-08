@@ -1,0 +1,17 @@
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/UDPConsoleApp
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/UDPConsoleApp.deps.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/UDPConsoleApp.runtimeconfig.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/UDPConsoleApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/UDPConsoleApp.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.csproj.AssemblyReference.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.AssemblyInfoInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.AssemblyInfo.cs
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.csproj.CoreCompileInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.csproj.CopyComplete
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/refint/UDPConsoleApp.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/UDPConsoleApp.genruntimeconfig.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocket/UDPConsoleApp/obj/Debug/net7.0/ref/UDPConsoleApp.dll
